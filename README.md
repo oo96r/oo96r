@@ -1,9 +1,14 @@
-### Hi there 👋
+
+修士課程1年目在学。就職活動中です。
+
+[Atcoder](https://atcoder.jp/users/oo96r)
 
 <!--
 **oo96r/oo96r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
