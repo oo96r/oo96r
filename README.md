@@ -1,5 +1,5 @@
 
-修士課程1年目在学。就職活動中です。
+修士課程1年目在学。
 
 [Atcoder](https://atcoder.jp/users/oo96r)
 
