@@ -1,5 +1,5 @@
 
-修士課程1年目在学。
+修士課程1年目
 
 [Atcoder](https://atcoder.jp/users/oo96r)
 
