@@ -1,5 +1,3 @@
-Titehc M1
-
 [Atcoder](https://atcoder.jp/users/oo96r)
 
 
