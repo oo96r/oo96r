@@ -1,5 +1,4 @@
-
-修士課程1年目
+Titehc M1
 
 [Atcoder](https://atcoder.jp/users/oo96r)
 
