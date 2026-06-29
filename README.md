@@ -1,6 +1,9 @@
 [Atcoder](https://atcoder.jp/users/oo96r)
 
-
+Name: Ryo Daikoku
+Affiliation: Hitachi, Ltd.
+Email: ryo.oguro.vo@hitachi.com
+Research interests: Large Language Models, Retrieval-Augmented Generation, Knowledge Graphs, Industrial AI
 
 <!--
 **oo96r/oo96r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
