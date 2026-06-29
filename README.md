@@ -1,8 +1,8 @@
 [Atcoder](https://atcoder.jp/users/oo96r)
 
-Name: Ryo Daikoku
-Affiliation: Hitachi, Ltd.
-Email: ryo.oguro.vo@hitachi.com
+Name: Ryo Oguro  
+Affiliation: Hitachi, Ltd.  
+Email: ryo.oguro.vo@hitachi.com  
 Research interests: Large Language Models, Retrieval-Augmented Generation, Knowledge Graphs, Industrial AI
 
 <!--
