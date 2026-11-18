@@ -1,7 +1,4 @@
 
-Name: Ryo Oguro  
-Affiliation: Hitachi, Ltd.  
-Email: ryo.oguro.vo@hitachi.com  
 
 [Atcoder](https://atcoder.jp/users/oo96r)
 
